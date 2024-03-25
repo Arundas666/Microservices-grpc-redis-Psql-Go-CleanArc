@@ -2,6 +2,7 @@ package db
 
 import (
 	"auth_svc/pkg/config"
+	"auth_svc/pkg/domain"
 	"fmt"
 	"log"
 
